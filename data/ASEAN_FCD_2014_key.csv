@@ -1,0 +1,21 @@
+Key, Description, Unit
+ENERC (ENERC),Energy [4*Protein + 9*Fat + 4*CHOAVLDF + 2*Fiber]; (Energy) [4*Protein + 9*Fat + 4*CHOCDF],kcal
+WATER,Moisture,g
+PROCNT,Protein,g
+FAT,Fat,g
+CHOAVLDF (CHOCDF),Carbohydrate [100-(Water + Protein + Fat + Fiber + Ash)]; (Carbohydrate) [100-water + Protein + Fat + Ash],g
+FIBTG,Total Dietary Fibre,g
+ASH,Ash,g
+CA,Calcium,mg
+P,Phosphorus,mg
+NA,Sodium,mg
+K,Potassium,mg
+FE,Iron,mg
+CU,Copper,mg
+RETOL,Retinol,mg
+CARTB,Beta-carotene,mg
+VITA_RAE,"Vitamin A, retinol activity equivalent",mg
+THIA,Vitamin B1,mg
+RIBF,Vitamin B2,mg
+NIA,Niacin,mg
+VITC,Vitamin C,mg

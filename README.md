@@ -22,3 +22,4 @@ _Further Notes_
 The data is formatted as a `.csv` file for easy programmatic access. However, downstream preprocessing is absolutely required, as the nutritional values are not all numerical. 
 - For example, some values are enclosed within parentheses. These only affect the columns ENERC (energy) and CHOAVLDF (carbohydrates). I believe that the parentheses indicate that these values are derived from other nutritional components (p. 27, xxiii, ASEAN FCD 2014).
 - Some values might also be indicated as "0p", which stands for presumed zero (p. 27, xxiii, ASEAN FCD 2014)
+
